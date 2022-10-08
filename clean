@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Delete all generated binaries.
+
+[ -f tuipos ] && rm -f tuipos
