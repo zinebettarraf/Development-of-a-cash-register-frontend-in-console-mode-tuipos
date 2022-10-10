@@ -1,4 +1,5 @@
-# Development of a console for cash register frontend : tuipos
+# Development of a cash register frontend in console mode:
+tuipos
 
 
 ## Specifications :
